@@ -5,7 +5,7 @@ The mission statement of this project is and always will be "sync a folder of .v
 
 Basic principles, choice of defaults and benchmarks are:
 * smooth interaction with [ppl](https://github.com/h2s/ppl) although this project is in no way limited to this.
-* A strict policy of "if in doubt: leave it to the user". No smart guessing please. We're dealing with real live user data here.
+* A strict policy of "if in doubt: leave it to the user". No smart guessing please. We're dealing with real life user data here.
 
 Status
 ------
@@ -16,8 +16,8 @@ At this stage I am very open to suggestions and ideas. I beg you to bomb me with
 Roadmap
 -------
 I'll start sketching my first ideas as issues so you can discuss them. Later these issues will be turned into wiki pages as things start to crystallize.
-* By the end of January I hope to have a full wiki and prove of concept status on "talking to google". At this point I will start to implement things.
-* One ore two month later there should be an alpha implementation.
+* By the end of January I hope to have a full wiki and proof of concept status on "talking to google". At this point I will start to implement things.
+* One ore two months later there should be an alpha implementation.
 * Everything beyond that is a smoke screen to me.
 
 Not too super agile but I got a feeling this plan could hold.
