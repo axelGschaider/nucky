@@ -1,6 +1,8 @@
 nucky
 =====
 
+_ NOTE: due to a demanding job and growing criticism towards google since the beginning of 2013 (PRISM only being the tip of the iceberg) this project has gone into hiatus before it even really started. The mission statement will be changed in the near future to read something like "sync with a generic CardDAV server"_
+
 The mission statement of this project is and always will be "sync a folder of .vcf files with google contacts". No more and no less.
 
 Basic principles, choice of defaults and benchmarks are:
